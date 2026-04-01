@@ -1,0 +1,29 @@
+# Unity转型学习总览
+
+## 当前状态
+- Roblox → Unity转型
+- 已有经验：
+  - 背包系统
+  - MVVM
+  - 客户端/服务端通信
+
+## 当前阶段
+- C#基础学习
+
+## 薄弱点
+- event / 委托
+- Unity架构
+- 网络同步
+
+---
+
+## 当前重点
+[[Dictionary]]
+[[Class_vs_Struct]]
+[[Event]]
+
+---
+
+## 目标
+- 完成Unity背包系统
+- 达到Unity客户端开发能力（12k+）

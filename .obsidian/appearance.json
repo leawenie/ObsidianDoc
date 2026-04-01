@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Cascadia Code,Calibri,微软雅黑,Cambria Math,Monaco",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 21,
+  "textFontFamily": "Cascadia Code,微软雅黑,Microsoft YaHei UI",
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}
