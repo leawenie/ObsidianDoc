@@ -19,7 +19,7 @@
 
 ## 当前重点
 [[Dictionary]]
-[[Class_vs_Struct]]
+[[类与结构体]]
 [[Event]]
 
 ---

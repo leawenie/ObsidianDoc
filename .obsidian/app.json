@@ -3,5 +3,7 @@
   "spellcheck": false,
   "readableLineLength": false,
   "showLineNumber": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true
 }
