@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "微软雅黑,Cascadia Code,Calibri,Cambria Math,Monaco",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 14,
+  "baseFontSize": 17,
   "textFontFamily": "Fira Code,Microsoft YaHei UI,微软雅黑,Cascadia Code",
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }

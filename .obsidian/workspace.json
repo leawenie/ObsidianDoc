@@ -11,10 +11,14 @@
             "id": "a481f8e5f61e20cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "C++/内存区域/区域划分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "区域划分"
             }
           }
         ]
@@ -179,14 +183,19 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a481f8e5f61e20cb",
+  "active": "30fd7cbf5ccbbf2e",
   "lastOpenFiles": [
-    "Unity-Transition/00-Overview.md",
-    "Unity-Transition/01-CSharp/问号运算符.md",
-    "未命名.canvas",
     "Unity-Transition/01-CSharp/字典.md",
+    "C++/内存区域/区域划分.md",
+    "C++/内存区域",
+    "C++/未命名.md",
+    "Unity-Transition/01-CSharp/问号运算符.md",
     "Unity-Transition/01-CSharp/类与结构体.md",
+    "C++/未命名.canvas",
+    "C++",
     "Unity-Transition/02-Projects/Backpack_System.md",
+    "Unity-Transition/00-Overview.md",
+    "未命名.canvas",
     "Dictionary.md",
     "Event.md",
     "Unity-Transition/01-CSharp/问号运算符 copy.md",
@@ -202,7 +211,6 @@
     "Unity-Transition/03-Errors",
     "Unity-Transition/04-Roadmap",
     "Unity-Transition/02-Projects",
-    "未命名",
     "Unity-Transition/01-CSharp",
     "Unity-Transition"
   ]
